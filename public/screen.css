@@ -53,11 +53,14 @@ fieldset {
 h2.player1Choice {
   font-size: 2.5rem;
   margin: 0rem;
+  visibility: hidden;
 }
 h2.player2Choice {
   font-size: 2.5rem;
   margin: 0rem;
+  visibility: hidden;
 }
+
 h2.winnerName {
   align-content: center;
   font-size: 2.5rem;
