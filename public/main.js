@@ -1,6 +1,6 @@
 function main() {
-  if (document.querySelector('h1.hello-world')) {
-    document.querySelector('h1.hello-world').textContent = 'Hello, World!'
+  if (document.querySelector('h1.roshambo-lizard-spock')) {
+    document.querySelector('h1.roshambo-lizard-spock').textContent = 'Roshambo + Lizard + Spock!'
   }
 }
 
