@@ -64,6 +64,7 @@ h2.player2Choice {
 h2.winnerName {
   align-content: center;
   font-size: 2.5rem;
+  visibility: visible;
 }
 
 button {
@@ -72,5 +73,7 @@ button {
   border: thin solid gray;
   color:antiquewhite;
   background-color: rgb(125, 214, 52);
+  font-style: bold;
+  font-size: .5cm;
   
 }
